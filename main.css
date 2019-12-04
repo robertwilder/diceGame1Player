@@ -1,0 +1,39 @@
+
+body{
+    height: 95vh;
+    text-align: center;
+    background-color: rgba(53, 30, 56, 0.411);
+    border-style: double;
+}
+
+
+.diceImage {
+    padding-left: 15vh;
+    border: black;
+}
+/* .button{
+
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 2vh;
+    font-family: monospace;
+    position: relative;
+    top: 15vh;
+    right: 24vh;
+     */
+/*    
+} */
+.newGame { 
+    padding-top: 50vhh;
+    position: relative;
+    top: 10vh;
+    text-align: center;
+    right: 26vh
+    
+}
+.playerOne {
+    float:left;
+}
+.playerTwo {
+    float:right;
+}
